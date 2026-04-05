@@ -31,6 +31,14 @@ export type SiteContent = {
       lines: string[];
     };
   };
+  philosophyPage: {
+    meta: MetaEntry;
+    intro: {
+      eyebrow: string;
+      quote: string;
+      caption: string;
+    };
+  };
   menu: {
     meta: MetaEntry;
     title: string;

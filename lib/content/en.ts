@@ -34,6 +34,18 @@ export const enContent: SiteContent = {
       ]
     },
   },
+  philosophyPage: {
+    meta: {
+      title: "Philosophy — DAO",
+      description:
+        "DAO is a path shaped through taste, stillness, and precision. The philosophy behind Moscow's premier Asian bistro."
+    },
+    intro: {
+      eyebrow: "The Philosophy",
+      quote: "DAO is a path\nshaped through\ntaste and stillness.",
+      caption: "Asia as a source of depth, not decoration."
+    }
+  },
   menu: {
     meta: {
       title: "Menu - DAO",

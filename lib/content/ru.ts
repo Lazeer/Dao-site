@@ -34,6 +34,18 @@ export const ruContent: SiteContent = {
       ]
     },
   },
+  philosophyPage: {
+    meta: {
+      title: "Философия — DAO",
+      description:
+        "DAO — это путь, выраженный через вкус, тишину и точность. Философия лучшего паназиатского ресторана Москвы."
+    },
+    intro: {
+      eyebrow: "Философия",
+      quote: "DAO — это путь,\nвыраженный через\nвкус и тишину.",
+      caption: "Азия — источник глубины, а не декорация."
+    }
+  },
   menu: {
     meta: {
       title: "Меню — DAO",
